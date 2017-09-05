@@ -10,7 +10,11 @@ public class App
     {
 // this is comment from remote github
         // second comment from github
+<<<<<<< HEAD
     	int a=10;
+=======
+        int b=10;
+>>>>>>> refs/remotes/origin/master
        // this is from branch 2
         // this is local master 
     	System.out.println("hello first commit");
