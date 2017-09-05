@@ -8,9 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-// this is comment from remote github
+// this is comment from      remote github
         // second comment from github
     	int a=10;
+        int b=10; int c=20;
        // this is from branch 2
         // this is local master 
     	System.out.println("hello first commit");
