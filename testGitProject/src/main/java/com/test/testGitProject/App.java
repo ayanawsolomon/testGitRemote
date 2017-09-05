@@ -8,7 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("hello first commit");
+        // this is local master 
+    	System.out.println("hello first commit");
         for(int i=0; i<=10; i++){
         	System.out.println(i);
         	if(i%2==0)
