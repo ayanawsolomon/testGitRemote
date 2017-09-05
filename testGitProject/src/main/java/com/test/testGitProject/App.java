@@ -8,7 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
+
        // this is from branch 2
+
+        // this is local master 
     	System.out.println("hello first commit");
         for(int i=0; i<=10; i++){
         	System.out.println(i);
